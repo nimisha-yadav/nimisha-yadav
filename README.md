@@ -3,7 +3,7 @@
 - 📫 Active Participant in Hackathons and Team Events.
 
   • Portfolio: https://nimisha-yadav.github.io/Website
-  • Connect with me at: https://wwww.linkedin.com/in/nimisha-yadav
+  • Connect with me at: https://www.linkedin.com/in/nimisha-yadav
 
 <!---
 nimisha-yadav/nimisha-yadav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
