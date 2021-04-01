@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nimisha Yadav, a B.Tech CSE Sophomore.
+- 👋 Hi, I’m Nimisha Yadav, a B.Tech. CSE Sophomore.
 - 👀 My interests include Full Stack Development and Competetive Programming.
 - 📫 Active Participant in Hackathons and Team Events.
 
