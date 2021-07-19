@@ -1,4 +1,4 @@
-- 👋 Hi! I’m Nimisha Yadav, a rising CSE 3rd year.
+- 👋 Hi! I’m Nimisha Yadav, a 3rd year CSE student.
 - 👀 My interests include Full Stack Development and Competitive Programming.
 - 📫 Active Participant in Hackathons and Team Events.
 -  Portfolio: https://nimisha-yadav.github.io/Website
