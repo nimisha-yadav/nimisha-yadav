@@ -8,6 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://twitter.com/nimishatwt" target="blank"><img src="https://img.shields.io/twitter/follow/nimishatwt?logo=twitter&style=for-the-badge" alt="nimishatwt" /></a> </p>
 
+
 - ✨ Recipient of 2021 [Generation Google APAC](https://buildyourfuture.withgoogle.com/scholarships/google-scholarship-recipients/) Scholarship and [AnitaBorg GHC](https://ghc.anitab.org/) Scholarship.
 
 - 👩‍💻 Trainee-participant at Goldman Sachs Summer Insight Series.
