@@ -3,7 +3,7 @@ nimisha-yadav/nimisha-yadav is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center"><img src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" width="45px"> Hi! I'm Nimisha, a CSE Junior from India.</h1>
+<h1 align="center"><img src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" width="45px"> Hi, I'm Nimisha!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimisha-yadav&label=Profile%20Views&color=0e75b6&style=flat" alt="nimisha-yadav" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nimishatwt" target="blank"><img src="https://img.shields.io/twitter/follow/nimishatwt?logo=twitter&style=for-the-badge" alt="nimishatwt" /></a> </p>
@@ -17,7 +17,9 @@ You can click the Preview link to take a look at your changes.
 - 🚀 My interests include MERN-stack Development and Competitive Programming.
 - 🤝 Active Participant in Hackathons and Team Events.
 - 📫 How to reach me: **iamnimishayadav@gmail.com**
+- 🪄 Pronouns: she/her/hers
 - 💻 **[Portfolio](https://nimisha-yadav.github.io/Website)**
+
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
