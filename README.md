@@ -6,9 +6,6 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center"><img src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" width="45px"> Hi, I'm Nimisha!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimisha-yadav&label=Profile%20Views&color=0e75b6&style=flat" alt="nimisha-yadav" /> </p>
 
-<p align="left"> <a href="https://twitter.com/nimishatwt" target="blank"><img src="https://img.shields.io/twitter/follow/nimishatwt?logo=twitter&style=for-the-badge" alt="nimishatwt" /></a> </p>
-
-
 - ✨ Recipient of 2021 [Generation Google APAC](https://buildyourfuture.withgoogle.com/scholarships/google-scholarship-recipients/) Scholarship and [AnitaBorg GHC](https://ghc.anitab.org/) Scholarship.
 
 - 👩‍💻 Trainee-participant at Goldman Sachs Summer Insight Series.
