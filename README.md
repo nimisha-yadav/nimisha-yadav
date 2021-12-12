@@ -9,12 +9,12 @@ You can click the Preview link to take a look at your changes.
 - ✨ Recipient of 2021 [Generation Google APAC](https://buildyourfuture.withgoogle.com/scholarships/google-scholarship-recipients/) Scholarship and [AnitaBorg GHC](https://ghc.anitab.org/) Scholarship.
 
 - 👩‍💻 Trainee-participant at Goldman Sachs Summer Insight Series.
--  📍  Project Contributor at Crio.Do IBD and UAceIt.
-- 😀 Delegated at Harvard US-India Initiative Conference and volunteered at WomenTech Network.
-- 🚀 My interests include MERN-stack Development and Competitive Programming.
+-  📍 Contributed to 5+ open source projects as part of several programs and competitions.
+- 😀 Delegated at Harvard US-India Initiative Conference. Volunteered at WomenTech Network.
+- 🚀 My interests include Tech, Communities, Blogging, Music and stuff.
 - 🤝 Active Participant in Hackathons and Team Events.
 - 📫 How to reach me: **iamnimishayadav@gmail.com**
-- 🪄 Pronouns: she/her/hers
+- 💠 Pronouns: she/her/hers
 - 💻 **[Portfolio](https://nimisha-yadav.github.io/Website)**
 
 <hr>
