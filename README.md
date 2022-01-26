@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nimisha-yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimisha-yadav" height="27" width="40" /></a>
-<a href="https://twitter.com/nimishatwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nimishatwt" height="30" width="40" /></a>
+<a href="https://twitter.com/nimisha_y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nimishatwt" height="30" width="40" /></a>
 <a href="https://medium.com/@nimishayadav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/medium.svg" alt="@nimishayadav" height="30" width="40" /></a>
 <a href="https://instagram.com/nimishayadav_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nimishayadav_" height="30" width="40" /></a>
 </p>
