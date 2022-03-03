@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 - ✨ Recipient of 2021 [Generation Google APAC](https://buildyourfuture.withgoogle.com/scholarships/google-scholarship-recipients/) Scholarship and [AnitaBorg GHC](https://ghc.anitab.org/) Scholarship.
 
 - 👩‍💻 Trainee-participant at Goldman Sachs Summer Insight Series.
--  📍 Contributed to 5+ open source projects as part of several programs and competitions.
+-  📍 Contributed to numerous open source projects as part of several programs and competitions.
 - 😀 Delegated at Harvard US-India Initiative Conference. Volunteered at WomenTech Network.
 - 🚀 My interests include Tech, Communities, Blogging, Music and stuff.
 - 🤝 Active Participant in Hackathons and Team Events.
