@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 - 🤝 Active Participant in Hackathons and Team Events.
 - 📫 How to reach me: **iamnimishayadav@gmail.com**
 - 💠 Pronouns: she/her/hers
-- 💻 **Portfolio: https://nimisha-yadav.web.app**
+- 💻 [Portfolio](https://nimisha-yadav.web.app)
 
 <hr>
 <h3 align="left">Connect with me:</h3>
