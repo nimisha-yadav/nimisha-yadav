@@ -7,9 +7,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimisha-yadav&label=Profile%20Views&color=0e75b6&style=flat" alt="nimisha-yadav" /> </p>
 
 - ✨ Tech Scholar at Google, Eaton Corporation, Grace Hopper, Udacity.
-- 👩‍💻 Trainee-participant at Goldman Sachs Summer Insight Series.
 -  📍 Contributed to numerous open source projects as part of several programs and competitions.
-- 😀 Delegated at Harvard US-India Initiative Conference. Volunteered at WomenTech Network.
 - 🚀 My interests include Tech, Communities, Blogging, Music and stuff.
 - 🤝 Active Participant in Hackathons and Team Events.
 - 📫 How to reach me: **iamnimishayadav@gmail.com**
