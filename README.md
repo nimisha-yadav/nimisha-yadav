@@ -6,8 +6,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">👋 Hi, I'm Nimisha!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimisha-yadav&label=Profile%20Views&color=0e75b6&style=flat" alt="nimisha-yadav" /> </p>
 
-- ✨ Recipient of 2021 [Generation Google APAC](https://buildyourfuture.withgoogle.com/scholarships/google-scholarship-recipients/) Scholarship and [AnitaBorg GHC](https://ghc.anitab.org/) Scholarship.
-
+- ✨ Tech Scholar at Google, Eaton Corporation, Grace Hopper, Udacity.
 - 👩‍💻 Trainee-participant at Goldman Sachs Summer Insight Series.
 -  📍 Contributed to numerous open source projects as part of several programs and competitions.
 - 😀 Delegated at Harvard US-India Initiative Conference. Volunteered at WomenTech Network.
